@@ -34,7 +34,10 @@
     "router",
     "client side"
   ],
-  "author": "Sebastiaan Deckers <seb@ninja.sg>",
+  "author": "Stian Didriksen <stipsan@gmail.com>",
+  "contributors": [
+    "Sebastiaan Deckers <seb@ninja.sg>"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/stipsan/express-history-spa-fallback/issues"
