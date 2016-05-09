@@ -6,7 +6,7 @@ If you're able to send a static HTML file, use [express-history-api-fallback](ht
 [![Build Status](https://travis-ci.org/stipsan/express-history-spa-fallback.svg?branch=master)](https://travis-ci.org/stipsan/express-history-spa-fallback)
 [![Coverage Status](https://coveralls.io/repos/github/stipsan/express-history-spa-fallback/badge.svg?branch=master)](https://coveralls.io/github/stipsan/express-history-spa-fallback?branch=master)
 
-[![NPM](https://nodei.co/npm/express-history-spa-fallback.png)](https://www.npmjs.com/package/express-history-spa-fallback)
+[![NPM](https://nodei.co/npm/express-history-spa-fallback.svg)](https://www.npmjs.com/package/express-history-spa-fallback)
 
 Works as a middleware for Express v4.8.0 or later. Can be used as either an application middleware or a router middleware.
 
