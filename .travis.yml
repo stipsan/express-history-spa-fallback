@@ -9,5 +9,4 @@ node_js:
 cache:
   directories:
     - node_modules
-after_success:
-  - npm run codecov
+after_success: npm run coveralls
