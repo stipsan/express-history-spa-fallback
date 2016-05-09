@@ -3,6 +3,7 @@
 import fallback from '../lib'
 
 const args = ['index.html', { root: __dirname }]
+const callback = (req, res, next) => res.send()
 
 describe('constructor', () => {
   it('returns something that looks like a middleware', () => {
