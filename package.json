@@ -1,5 +1,5 @@
 {
-  "name": "express-history-api-fallback",
+  "name": "express-history-spa-fallback",
   "version": "2.0.0",
   "description": "Simple fallback for Express-served single page apps that use the HTML5 History API for client side routing.",
   "main": "./dist",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cbas/express-history-api-fallback.git"
+    "url": "git+https://github.com/cbas/express-history-spa-fallback.git"
   },
   "keywords": [
     "express",
@@ -37,9 +37,9 @@
   "author": "Sebastiaan Deckers <seb@ninja.sg>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cbas/express-history-api-fallback/issues"
+    "url": "https://github.com/cbas/express-history-spa-fallback/issues"
   },
-  "homepage": "https://github.com/cbas/express-history-api-fallback#readme",
+  "homepage": "https://github.com/cbas/express-history-spa-fallback#readme",
   "devDependencies": {
     "babel": "^5.8.29",
     "babel-eslint": "^4.1.3",

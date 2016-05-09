@@ -1,15 +1,15 @@
-# express-history-api-fallback
+# express-history-spa-fallback
 A tiny, accurate, fast Express middleware for single page apps with client side routing.
 
-[![Build Status](https://travis-ci.org/cbas/express-history-api-fallback.svg?branch=master)](https://travis-ci.org/cbas/express-history-api-fallback)
-[![codecov.io](https://codecov.io/github/cbas/express-history-api-fallback/coverage.svg?branch=master)](https://codecov.io/github/cbas/express-history-api-fallback?branch=master)
+[![Build Status](https://travis-ci.org/cbas/express-history-spa-fallback.svg?branch=master)](https://travis-ci.org/cbas/express-history-spa-fallback)
+[![codecov.io](https://codecov.io/github/cbas/express-history-spa-fallback/coverage.svg?branch=master)](https://codecov.io/github/cbas/express-history-spa-fallback?branch=master)
 
-[![NPM](https://nodei.co/npm/express-history-api-fallback.png)](https://www.npmjs.com/package/express-history-api-fallback)
+[![NPM](https://nodei.co/npm/express-history-spa-fallback.png)](https://www.npmjs.com/package/express-history-spa-fallback)
 
 Works as a middleware for Express v4.8.0 or later. Can be used as either an application middleware or a router middleware.
 
 ```js
-import fallback from 'express-history-api-fallback'
+import fallback from 'express-history-spa-fallback'
 import express from 'express'
 const app = express()
 const root = `${__dirname}/public`
@@ -18,7 +18,7 @@ app.use(fallback('index.html', { root }))
 ```
 Or in ECMAScript 5:
 ```js
-var fallback = require('express-history-api-fallback')
+var fallback = require('express-history-spa-fallback')
 var express = require('express')
 var app = express()
 var root = __dirname + '/public'

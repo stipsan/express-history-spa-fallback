@@ -1,5 +1,5 @@
 {
-  "name":"express-history-api-fallback",
+  "name":"express-history-spa-fallback",
   "scripts":{},
   "env":{},
   "addons":[]
