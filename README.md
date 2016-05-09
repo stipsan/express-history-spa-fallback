@@ -1,8 +1,8 @@
 # express-history-spa-fallback
 A tiny, accurate, fast Express middleware for single page apps with client side routing.
 
-[![Build Status](https://travis-ci.org/cbas/express-history-spa-fallback.svg?branch=master)](https://travis-ci.org/cbas/express-history-spa-fallback)
-[![codecov.io](https://codecov.io/github/cbas/express-history-spa-fallback/coverage.svg?branch=master)](https://codecov.io/github/cbas/express-history-spa-fallback?branch=master)
+[![Build Status](https://travis-ci.org/stipsan/express-history-spa-fallback.svg?branch=master)](https://travis-ci.org/stipsan/express-history-spa-fallback)
+[![codecov.io](https://codecov.io/github/stipsan/express-history-spa-fallback/coverage.svg?branch=master)](https://codecov.io/github/stipsan/express-history-spa-fallback?branch=master)
 
 [![NPM](https://nodei.co/npm/express-history-spa-fallback.png)](https://www.npmjs.com/package/express-history-spa-fallback)
 
