@@ -46,7 +46,7 @@
     "chai": "^3.4.0",
     "coveralls": "^2.11.12",
     "eslint": "^3.2.2",
-    "eslint-config-airbnb": "^9.0.1",
+    "eslint-config-airbnb": "^10.0.0",
     "growl": "^1.9.2",
     "istanbul": "^1.0.0-alpha.2",
     "mkdirp": "^0.5.1",
