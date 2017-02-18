@@ -52,7 +52,7 @@
     "mkdirp": "0.5.1",
     "mocha": "3.2.0",
     "mocha-eslint": "3.0.1",
-    "rimraf": "2.5.4",
+    "rimraf": "2.6.0",
     "sinon": "1.17.7",
     "sinon-chai": "2.8.0"
   }
