@@ -45,7 +45,7 @@
     "babel-register": "6.23.0",
     "chai": "3.5.0",
     "coveralls": "2.11.16",
-    "eslint": "3.16.0",
+    "eslint": "3.16.1",
     "eslint-config-airbnb": "14.1.0",
     "growl": "1.9.2",
     "istanbul": "1.0.0-alpha.2",
