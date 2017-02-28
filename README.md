@@ -1,4 +1,6 @@
 # express-history-spa-fallback
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/stipsan/express-history-spa-fallback.svg)](https://greenkeeper.io/)
 A tiny, accurate, fast Express middleware for single page apps with client side routing.
 
 If you're able to send a static HTML file, use [express-history-api-fallback](https://www.npmjs.com/package/express-history-api-fallback) instead. This middleware is for cases where it's generating static files is impractical (React server side rendering for instance).
